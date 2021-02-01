@@ -1,0 +1,5 @@
+num_1 = int(input("Введите первую цифру "))
+num_2 = int(input("Введите вторую цифру "))
+string_1 = input("Введите первую строку ")
+string_2 = input("Введите вторую строку ")
+print(num_1, type, num_2, type, string_1, type, string_2, type)
